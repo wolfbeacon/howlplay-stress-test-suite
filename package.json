@@ -1,0 +1,19 @@
+{
+  "name": "howlplay-stress-test-suite",
+  "version": "1.0.0",
+  "description": "Stress testing suite for HowlPlay",
+  "main": "start.js",
+  "scripts": {
+    "test": "npm -v"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolfbeacon/howlplay-stress-test-suite.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wolfbeacon/howlplay-stress-test-suite/issues"
+  },
+  "homepage": "https://github.com/wolfbeacon/howlplay-stress-test-suite#readme"
+}
